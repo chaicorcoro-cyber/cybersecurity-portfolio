@@ -1,43 +1,36 @@
-# 🌸 Chai’s Cybersecurity Portfolio
+# 💖 Chai C. — Cybersecurity Portfolio
+Welcome to my cybersecurity portfolio — a collection of labs, projects, and learning milestones as I transition from healthcare and IT into the field of cybersecurity. 💗  
 
-👋 Hi! I'm Chai — an aspiring **Cybersecurity Analyst** transitioning from healthcare and IT into the world of digital defense.  
-Currently based in **Canada 🇨🇦**, preparing to move to **Ireland 🇮🇪**, and building hands-on experience through labs, courses, and self-study.
-
----
+--- 💗 ---
 
 ## 🧠 About Me
-- 🎓 Currently studying: Google IT Support & Google Cybersecurity Certificates  
-- 💻 Focus: Blue Team • SOC Operations • Network Defense  
-- 🧰 Tools: Linux • Wireshark • pfSense • Splunk • Wazuh • Python (basics)  
-- 🪄 Goal: Land an entry-level IT or SOC role in Ireland by 2025  
+Aspiring Cybersecurity Analyst • IT & Healthcare background  
+Building Blue-Team and SOC skills through labs and self-study.
 
----
+--- 💗 ---
 
 ## 🧪 Projects
 | # | Project | Description | Tools |
 |:-:|:--|:--|:--|
-| 1 | **TryHackMe – Network Fundamentals** | Explored the OSI model, IP addressing, and packet analysis. | Linux, Wireshark |
-| 2 | **pfSense Firewall Lab** | Built a virtual firewall to manage internal & external traffic. | pfSense, VirtualBox |
-| 3 | **Splunk Log Analysis** | Detected failed logins using SIEM dashboards. | Splunk |
-| 4 | **Python Log Parser** *(coming soon)* | Automated log extraction & filtering. | Python |
+| 1 | [TryHackMe – Network Fundamentals](./tryhackme-network-fundamentals) | Explored OSI layers, IP addressing, and packet analysis. | Linux, Wireshark |
+| 2 | [pfSense Firewall Lab](./pfsense-firewall-lab) | Built and configured a virtual firewall. | pfSense, VirtualBox |
+| 3 | [Splunk Log Analysis](./splunk-log-analysis) | Investigated failed logins using a SIEM. | Splunk |
 
----
+--- 💗 ---
 
-## 🧰 Learning Platforms
-[TryHackMe](https://tryhackme.com) • [HackTheBox](https://www.hackthebox.com) • [Coursera](https://www.coursera.org)
+## 🎓 Certifications & Tools
+Google IT Support (in progress) • Google Cybersecurity (in progress) • Security+ (planned 2025)  
+Tools: Linux • Wireshark • pfSense • Splunk • Python
 
----
+--- 💗 ---
 
-## 📜 Certifications (in progress)
-- Google IT Support  
-- Google Cybersecurity  
-- CompTIA Security+ *(planned 2025)*  
+## 🌱 Learning Goals
+- Complete SOC Level 1 Path on TryHackMe  
+- Build a personal cyber lab  
+- Earn Security+ certification by mid-2025  
 
----
+--- 💗 ---
 
-## 🌷 Connect With Me
-- [LinkedIn](https://www.linkedin.com) (update with your link)  
-- [Email](mailto:your.email@example.com)
-
----
-> _“Building my cyber foundation one command at a time.”_ ✨
+## 💌 Contact
+- LinkedIn: [linkedin.com/in/chaic](#)  
+- Email: chai.corcoro@gmail.com
