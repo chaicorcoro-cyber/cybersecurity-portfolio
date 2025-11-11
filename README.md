@@ -19,7 +19,7 @@ Building Blue-Team and SOC skills through labs and self-study.
 --- 💗 ---
 
 ## 🎓 Certifications & Tools
-Google IT Support (in progress) • Google Cybersecurity (in progress) • Security+ (planned 2025)  
+Google IT Support (in progress) • Google Cybersecurity (in progress) • Security+ (planned 2026)  
 Tools: Linux • Wireshark • pfSense • Splunk • Python
 
 --- 💗 ---
@@ -27,7 +27,7 @@ Tools: Linux • Wireshark • pfSense • Splunk • Python
 ## 🌱 Learning Goals
 - Complete SOC Level 1 Path on TryHackMe  
 - Build a personal cyber lab  
-- Earn Security+ certification by mid-2025  
+- Earn Security+ certification by mid-2026  
 
 --- 💗 ---
 
