@@ -32,5 +32,5 @@ Tools: Linux • Wireshark • pfSense • Splunk • Python
 --- 💗 ---
 
 ## 💌 Contact
-- LinkedIn: [linkedin.com/in/chaic](#)  
+- LinkedIn: [https://www.linkedin.com/in/chai-cc100889](#)  
 - Email: chai.corcoro@gmail.com
